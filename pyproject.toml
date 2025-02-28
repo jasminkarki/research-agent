@@ -1,0 +1,8 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "paper_analysis_summary_agent"
+version = "0.1.0"
+description = "An agentic-ai implementation for analyzing and summarizing papers"
